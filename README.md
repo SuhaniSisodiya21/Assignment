@@ -20,13 +20,4 @@
 ### Scenario 6: Delete Order
 ![Delete Order](https://github.com/SuhaniSisodiya21/Assignment/blob/main/demo/Images/scenerio%205%20api.png)
 
-> **Note:** Place all screenshot images in a folder named `screenshots/` in your repository.
 
----
-
-## **Setup Instructions**
-
-1. Clone repo:
-```bash
-git clone https://github.com/Snehaa244/HotwaxAssignment.git
-cd HotwaxAssignment
